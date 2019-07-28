@@ -2,8 +2,8 @@
 
 1. How to prepare a good cover letter
 
-* suggestions from Broad Institute
-* suggestions from Broad Institute
+* [Suggestions from Broad Institute]()
+* [Suggestions from Harvard University]()
 
 
 
