@@ -25,5 +25,8 @@ https://www.nature.com/naturecareers/jobs/search?text=Genetics&location=United+S
 ### Position 2019
 
 * https://www.nature.com/naturecareers/job/center-for-human-genetics-genomics-tenuretrack-faculty-positions-in-computational-biology-nyu-langone-medical-center-nyulmc-700343 
- 
+
+* https://www.nature.com/naturecareers/job/research-assistant-professor-computational-genomics-and-information-technology-for-neurodegeneration-research-university-of-pennsylvania-penn-696781
+
+
 
