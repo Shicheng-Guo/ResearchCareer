@@ -14,8 +14,7 @@ https://www.nature.com/naturecareers/jobs/search?text=Genetics&location=United+S
 * [Suggestions from Broad Institute](https://github.com/Shicheng-Guo/ResearchCareer/blob/master/Cover%20letter%20for%20a%20faculty%20position%20_%20Broad%20Institute%20of%20MIT%20and%20Harvard.pdf)
 * [Suggestions from Harvard University](gsas-cvs-and-cover-letters.pdf)
 
-* [Mannual for promotion of scientist](https://fa.hms.harvard.edu/files/hmsofa/files/fom_handbook_current_issue.dec2018v2.pdf)
-
+* [Mannual for promotion of scientist](https://fa.hms.harvard.edu/files/hmsofa/files/fom_handbook_current_issue.dec2018v2.pdf): Governance, Appointment and Promotion Handbook
 
 2. How to prepare a good CV
 
