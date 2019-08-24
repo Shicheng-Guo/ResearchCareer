@@ -29,5 +29,7 @@ https://www.nature.com/naturecareers/jobs/search?text=Genetics&location=United+S
 
 * https://www.nature.com/naturecareers/job/research-assistant-professor-computational-genomics-and-information-technology-for-neurodegeneration-research-university-of-pennsylvania-penn-696781
 
+* [UW-Madison Resource: ](https://cancer.wisc.edu/research/shared-resources/)
+
 
 
