@@ -1,0 +1,132 @@
+Auburn University	Public	Auburn	AL
+The University of Alabama	Public	Tuscaloosa	AL
+University of Alabama at Birmingham	Public	Birmingham	AL
+University of Arkansas	Public	Fayetteville	AR
+Arizona State University	Public	Tempe	AZ
+University of Arizona	Public	Tucson	AZ
+California Institute of Technology	Private (non-profit)	Pasadena	CA
+Stanford University	Private (non-profit)	Stanford	CA
+University of California, Berkeley	Public	Berkeley	CA
+University of California, Davis	Public	Davis	CA
+University of California, Irvine	Public	Irvine	CA
+University of California, Los Angeles	Public	Los Angeles	CA
+University of California, Riverside	Public	Riverside	CA
+University of California, San Diego	Public	La Jolla	CA
+University of California, Santa Barbara	Public	Santa Barbara	CA
+University of California, Santa Cruz	Public	Santa Cruz	CA
+University of Southern California	Private (non-profit)	Los Angeles	CA
+Colorado State University	Public	Fort Collins	CO
+University of Colorado Boulder	Public	Boulder	CO
+University of Colorado Denver/Anschutz-Medical Campus	Public	Denver	CO
+University of Connecticut	Public	Storrs	CT
+Yale University	Private (non-profit)	New Haven	CT
+George Washington University	Private (non-profit)	Washington	DC
+Georgetown University	Private (non-profit)	Washington	DC
+University of Delaware	Public	Newark	DE
+Florida International University	Public	Miami	FL
+Florida State University	Public	Tallahassee	FL
+University of Central Florida	Public	Orlando	FL
+University of Florida	Public	Gainesville	FL
+University of Miami	Private (non-profit)	Coral Gables	FL
+University of South Florida	Public	Tampa	FL
+Emory University	Private (non-profit)	Atlanta	GA
+Georgia Institute of Technology	Public	Atlanta	GA
+Georgia State University	Public	Atlanta	GA
+University of Georgia	Public	Athens	GA
+University of Hawaii at Manoa	Public	Honolulu	HI
+Iowa State University	Public	Ames	IA
+University of Iowa	Public	Iowa City	IA
+Northwestern University	Private (non-profit)	Evanston	IL
+Southern Illinois University	Public	Carbondale	IL
+University of Chicago	Private (non-profit)	Chicago	IL
+University of Illinois at Chicago	Public	Chicago	IL
+University of Illinois at Urbana–Champaign	Public	Champaign	IL
+Indiana University Bloomington	Public	Bloomington	IN
+Purdue University	Public	West Lafayette	IN
+University of Notre Dame	Private (non-profit)	Notre Dame	IN
+Kansas State University	Public	Manhattan	KS
+University of Kansas	Public	Lawrence	KS
+University of Kentucky	Public	Lexington	KY
+University of Louisville	Public	Louisville	KY
+Louisiana State University and Agricultural & Mechanical College	Public	Baton Rouge	LA
+Tulane University of Louisiana	Private (non-profit)	New Orleans	LA
+Boston College	Private (non-profit)	Chestnut Hill	MA
+Boston University	Private (non-profit)	Boston	MA
+Brandeis University	Private (non-profit)	Waltham	MA
+Harvard University	Private (non-profit)	Cambridge	MA
+Massachusetts Institute of Technology	Private (non-profit)	Cambridge	MA
+Northeastern University	Private (non-profit)	Boston	MA
+Tufts University	Private (non-profit)	Medford	MA
+University of Massachusetts Amherst	Public	Amherst	MA
+Johns Hopkins University	Private (non-profit)	Baltimore	MD
+University of Maryland, College Park	Public	College Park	MD
+Michigan State University	Public	East Lansing	MI
+University of Michigan	Public	Ann Arbor	MI
+Wayne State University	Public	Detroit	MI
+University of Minnesota	Public	Minneapolis	MN
+University of Missouri	Public	Columbia	MO
+Washington University in St. Louis	Private (non-profit)	Saint Louis	MO
+Mississippi State University	Public	Starkville	MS
+University of Mississippi	Public	Oxford	MS
+University of Southern Mississippi	Public	Hattiesburg	MS
+Montana State University	Public	Bozeman	MT
+Duke University	Private (non-profit)	Durham	NC
+North Carolina State University	Public	Raleigh	NC
+University of North Carolina at Chapel Hill	Public	Chapel Hill	NC
+University of Nebraska–Lincoln	Public	Lincoln	NE
+Dartmouth College	Private (non-profit)	Hanover	NH
+University of New Hampshire	Public	Durham	NH
+New Jersey Institute of Technology	Public	Newark	NJ
+Princeton University	Private (non-profit)	Princeton	NJ
+Rutgers University–New Brunswick	Public	New Brunswick	NJ
+University of New Mexico	Public	Albuquerque	NM
+University of Nevada, Las Vegas	Public	Las Vegas	NV
+University of Nevada, Reno	Public	Reno	NV
+Binghamton University	Public	Vestal	NY
+Columbia University in the City of New York	Private (non-profit)	New York	NY
+Cornell University	Private (non-profit)	Ithaca	NY
+CUNY Graduate School and University Center	Public	New York	NY
+New York University	Private (non-profit)	New York	NY
+Rensselaer Polytechnic Institute	Private (non-profit)	Troy	NY
+Stony Brook University	Public	Stony Brook	NY
+SUNY at Albany	Public	Albany	NY
+Syracuse University	Private (non-profit)	Syracuse	NY
+University at Buffalo	Public	Buffalo	NY
+University of Rochester	Private (non-profit)	Rochester	NY
+Case Western Reserve University	Private (non-profit)	Cleveland	OH
+Ohio State University	Public	Columbus	OH
+University of Cincinnati	Public	Cincinnati	OH
+Oklahoma State University	Public	Stillwater	OK
+University of Oklahoma	Public	Norman	OK
+Oregon State University	Public	Corvallis	OR
+University of Oregon	Public	Eugene	OR
+Carnegie Mellon University	Private (non-profit)	Pittsburgh	PA
+Drexel University	Private (non-profit)	Philadelphia	PA
+Pennsylvania State University	Public	University Park	PA
+Temple University	Public	Philadelphia	PA
+University of Pennsylvania	Private (non-profit)	Philadelphia	PA
+University of Pittsburgh	Public	Pittsburgh	PA
+Brown University	Private (non-profit)	Providence	RI
+Clemson University	Public	Clemson	SC
+University of South Carolina	Public	Columbia	SC
+The University of Tennessee	Public	Knoxville	TN
+Vanderbilt University	Private (non-profit)	Nashville	TN
+Rice University	Private (non-profit)	Houston	TX
+Texas A&M University	Public	College Station	TX
+Texas Tech University	Public	Lubbock	TX
+The University of Texas at Austin	Public	Austin	TX
+The University of Texas at Arlington	Public	Arlington	TX
+The University of Texas at Dallas	Public	Richardson	TX
+The University of Texas at El Paso	Public	El Paso	TX
+University of Houston	Public	Houston	TX
+University of North Texas	Public	Denton	TX
+University of Utah	Public	Salt Lake City	UT
+George Mason University	Public	Fairfax	VA
+University of Virginia	Public	Charlottesville	VA
+Virginia Commonwealth University	Public	Richmond	VA
+Virginia Polytechnic Institute and State University	Public	Blacksburg	VA
+University of Washington	Public	Seattle	WA
+Washington State University	Public	Pullman	WA
+University of Wisconsin–Madison	Public	Madison	WI
+University of Wisconsin–Milwaukee	Public	Milwaukee	WI
+West Virginia University	Public	Morgantown	WV
