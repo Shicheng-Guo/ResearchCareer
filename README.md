@@ -4,6 +4,7 @@ Nature Job in Genetics in USA
 
 https://www.nature.com/naturecareers/jobs/search?text=Genetics&location=United+States
 
+Update webpage frequently: https://shicheng-guo.github.io
 
 1. How to prepare a good cover letter
 * A faculty cover letter introduces you to future colleagues and demonstrates your confidence, innovation, and passion as a scientist and educator. It clearly explains how your expertise, values, and goals align with the department and university, and identifies your niche in your future academic community--Sara Garamszegi
