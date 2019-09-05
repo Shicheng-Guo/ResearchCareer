@@ -1,7 +1,7 @@
 ### Clinical Information Data Format
-1. How to prepare clinical information: [Excel format](41586_2019_1272_MOESM2_ESM.xlsx)
-2. How to prepare clinical information for data analysis: [Excel format](DataAnalysis_Saminfo_Example.xlsx)
-
+1. How to prepare clinical information (Supplementary): [Excel format](41586_2019_1272_MOESM2_ESM.xlsx)
+2. How to prepare clinical information (data analysis): [Excel format](DataAnalysis_Saminfo_Example.xlsx)
+3. How to prepare clinical information (Table 1)[Docx format](Table1.ESCC_Clinical_Epigenetics_Publication.docx	)
 ### Data Resource
 1. Estonian Genome Center, University of Tartu ([EGCUT](EGCUT.Biobank.pdf)) 
 2. [broad inform consent](gene_donor_consent_form.pdf)
