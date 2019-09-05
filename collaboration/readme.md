@@ -1,4 +1,7 @@
 ### Clinical Information Data Format
+
+We have several data format for clinical information since the format for publication, data analysis and supplementary materials are differentially required. If clinical information is put as main table, you should prepare a summary format (see [example 1](Table1.ESCC_Clinical_Epigenetics_Publication.docx)). if clinical information is put as supplmentary materials, you'd better so more details for the samples (see [example 2](41586_2019_1272_MOESM2_ESM.xlsx)). Howwever, what's important, clinical information is deeply required for data analysis which require well-trimed format, like [example3](DataAnalysis_Saminfo_Example.xlsx). 
+
 1. How to prepare clinical information (Supplementary): [Excel format](41586_2019_1272_MOESM2_ESM.xlsx)
 2. How to prepare clinical information (data analysis): [Excel format](DataAnalysis_Saminfo_Example.xlsx)
 3. How to prepare clinical information (Table 1)[Docx format](Table1.ESCC_Clinical_Epigenetics_Publication.docx	)
