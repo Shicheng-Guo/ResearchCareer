@@ -4,7 +4,9 @@
 2. How to prepare clinical information for data analysis: [Excel format](DataAnalysis_Saminfo_Example.xlsx)
 ---------
 
-
-2. Estonian Genome Center, University of Tartu ([EGCUT](EGCUT.Biobank.pdf)) 
-3. [broad inform consent](gene_donor_consent_form.pdf)
-4. [Estonian Biobank](https://www.geenivaramu.ee/en/access-biobank): 15,000+100,000 genotyping data
+### Data Resource
+---------
+1. Estonian Genome Center, University of Tartu ([EGCUT](EGCUT.Biobank.pdf)) 
+2. [broad inform consent](gene_donor_consent_form.pdf)
+3. [Estonian Biobank](https://www.geenivaramu.ee/en/access-biobank): 15,000+100,000 genotyping data
+---------
