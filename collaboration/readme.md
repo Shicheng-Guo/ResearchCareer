@@ -10,3 +10,4 @@ We have several data format need to prepare to show the clinical information sin
 1. Estonian Genome Center, University of Tartu ([EGCUT](EGCUT.Biobank.pdf)) 
 2. [broad inform consent](gene_donor_consent_form.pdf)
 3. [Estonian Biobank](https://www.geenivaramu.ee/en/access-biobank): 15,000+100,000 genotyping data
+4. Y2019-09-06: Ductal adenocarcinoma methylation project [clinical sample information](pancrease.saminfo.xlsx)
