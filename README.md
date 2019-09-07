@@ -22,6 +22,10 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 3. How to prepare a good research interest
 
+
+4. Job presentation is very very important
+* [Perfecting the job talk](PerfectingTheJobTalk-JE.pdf)
+
 4. [Seven steps to boost your research career in 2019](https://www.nature.com/articles/d41586-018-07807-x)
 
 ### Position 2019
