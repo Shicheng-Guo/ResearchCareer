@@ -6,7 +6,7 @@ We have several data format need to prepare to show the clinical information sin
 2. How to prepare clinical information (Data analysis): [Excel format](DataAnalysis_Saminfo_Example.xlsx)
 3. How to prepare clinical information (Main table): [Docx format](Table1.ESCC_Clinical_Epigenetics_Publication.docx)
 4. Y2019-09-06: Ductal adenocarcinoma methylation project [clinical sample information](pancrease.saminfo.xlsx)
-5. Y2019-09-12: Cholangiocarcinoma methylation project [clinical sample information]()
+5. Y2019-09-12: Cholangiocarcinoma methylation project (3 data type) [clinical sample information]()
 
 
 ### Data Resource
