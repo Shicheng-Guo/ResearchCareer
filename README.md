@@ -28,6 +28,8 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 5. [Seven steps to boost your research career in 2019](https://www.nature.com/articles/d41586-018-07807-x)
 
+6. Genetic Faculty in USA: https://www.nature.com/naturecareers/jobs/search?facets%5Bdiscipline%5D=Life%20Science&facets%5Bdiscipline%5D=Biomedicine&facets%5Bdiscipline%5D=Health%20Science&facets%5BjobType%5D=Faculty%20Member&location=United%20States&text=Genetics&facets[jobType]=Researcher
+
 ### Position 2019
 
 * https://www.nature.com/naturecareers/job/center-for-human-genetics-genomics-tenuretrack-faculty-positions-in-computational-biology-nyu-langone-medical-center-nyulmc-700343 
