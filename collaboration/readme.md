@@ -8,7 +8,7 @@ We have several data format need to prepare to show the clinical information sin
 4. Y2019-09-06: Ductal adenocarcinoma methylation project [clinical sample information](pancrease.saminfo.xlsx)
 5. Y2019-09-12: Cholangiocarcinoma methylation project (3 data type) [clinical sample information](Supplementary.xlsx)
 
-# Best Way to Name the Sample:
+### Best Way to Name the Sample:
 * Control:  C001, C002, C003
 * Disease:  D001, D002, D003
 
