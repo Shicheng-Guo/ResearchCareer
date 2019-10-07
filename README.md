@@ -38,5 +38,10 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 * [UW-Madison Resource: ](https://cancer.wisc.edu/research/shared-resources/)
 
+### Software 2019
+
+* OriginPro 255$/year: https://www.originlab.com/index.aspx?go=Purchase&PricingAndOrdering&pid=4408
+* Graphpad Prism 290$/year: https://www.graphpad.com/how-to-buy/
+
 
 
