@@ -43,5 +43,6 @@ Update webpage frequently: https://shicheng-guo.github.io
 * OriginPro 255$/year: https://www.originlab.com/index.aspx?go=Purchase&PricingAndOrdering&pid=4408
 * Graphpad Prism 290$/year: https://www.graphpad.com/how-to-buy/
 
-
-
+### Protocol 2019
+* cfMeDIP-seq : https://www.nature.com/articles/s41596-019-0202-2.pdf
+* 
