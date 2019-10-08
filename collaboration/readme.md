@@ -12,6 +12,10 @@ We have several data format need to prepare to show the clinical information sin
 * Control:  C001, C002, C003
 * Disease:  D001, D002, D003
 
+### Author Contribution (must have explicit evidence to make this declaration):
+xx and xx equally contributed in designing and performing analysis workflow and manuscript writing. xx assisted with method design. xx,
+xx, xx assisted with selection of null variants. xx assisted with variant annotation software packages. xx, xx, xx, xx, xx, xx, xx, xx assisted with data collection and data generation. xx xxx xx conceptualized and led the project. All authors read and approved the final manuscript.
+
 ### Data Resource
 1. Estonian Genome Center, University of Tartu ([EGCUT](EGCUT.Biobank.pdf)) 
 2. [broad inform consent](gene_donor_consent_form.pdf)
