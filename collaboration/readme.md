@@ -13,7 +13,7 @@ We have several data format need to prepare to show the clinical information sin
 * Disease:  D001, D002, D003
 
 ### Author Contribution (must have explicit evidence to make this declaration):
-xx and xx equally contributed in designing and performing analysis workflow and manuscript writing. xx assisted with method design. xx collected clinical information, xx and xx collected blood samples and extract the DNA. xxx assisted with genotyping data generation, xx, xx assisted with missing value imputation and phasing. xx assisted with variant annotation software packages. xxx, xx xxx xx conceptualized and led the project. xxx assisted with gene function explanation and identify biological relevance with rheumatoid arthritis. All authors read and approved the final manuscript.
+xx and xx equally contributed in study designing and performing analysis workflow and manuscript writing. xxx assisted with the method design. xx collected clinical information, xx assisted in clinical data cleaning, xx and xx collected blood samples and extract the DNA. xxx assisted with genotyping data generation, xx, xx assisted with missing value imputation and phasing. xx assisted with variant annotation software packages. xx and xx conceptualized and led the project. xxx assisted with gene function explanation and identify biological relevance with rheumatoid arthritis. All authors read and approved the final manuscript.
 
 ### Data Resource
 1. Estonian Genome Center, University of Tartu ([EGCUT](EGCUT.Biobank.pdf)) 
