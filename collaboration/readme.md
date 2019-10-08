@@ -12,6 +12,11 @@ We have several data format need to prepare to show the clinical information sin
 * Control:  C001, C002, C003
 * Disease:  D001, D002, D003
 
+### IRB and informed consent:
+On 15 April 2014, the study was reviewed and approved by the Marshfield Clinic Research Institute Institutional Review Board (FWA00000873, IRB00000673; title: Two Allele Loss of Function Genotype Array Study).
+
+The study was conducted in accordance with the Declaration of Helsinki. All samples were collected following written informed consent. All investigators using the PMRP samples had obtained the Research Ethics and Compliance Training certification through the Collaborative Institutional Training Initiative (CITI) program. The study protocol was reviewed and approved by the Marshfield Clinic Institutional Review Board. 
+
 ### Author Contribution (must have explicit evidence to make this declaration):
 xx and xx equally contributed in study designing and performing analysis workflow and manuscript writing. xxx assisted with the method design. xx collected clinical information, xx assisted in clinical data cleaning, xx and xx collected blood samples and extract the DNA. xxx assisted with genotyping data generation, xx, xx assisted with missing value imputation and phasing. xx assisted with variant annotation software packages. xx and xx conceptualized and led the project. xxx assisted with gene function explanation and identify biological relevance with rheumatoid arthritis. All authors read and approved the final manuscript.
 
