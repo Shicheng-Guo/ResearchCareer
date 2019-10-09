@@ -17,18 +17,21 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 * [Mannual for promotion of scientist](https://fa.hms.harvard.edu/files/hmsofa/files/fom_handbook_current_issue.dec2018v2.pdf): Governance, Appointment and Promotion Handbook
 
-2. How to prepare a good CV
+2. Genetic Faculty in USA: https://www.nature.com/naturecareers/jobs/search?facets%5Bdiscipline%5D=Life%20Science&facets%5Bdiscipline%5D=Biomedicine&facets%5Bdiscipline%5D=Health%20Science&facets%5BjobType%5D=Faculty%20Member&location=United%20States&text=Genetics&facets[jobType]=Researcher
+
+3. Genetic Faculty in Google: https://www.google.com/search?safe=active&q=genetics+faculty++job&ibp=htl;jobs#fpstate=tldetail&htidocid=v7V9Og7JyvUEsluSAAAAAA%3D%3D&htivrt=jobs
+
+4. How to prepare a good CV
 
 
-3. How to prepare a good research interest
+5. How to prepare a good research interest
 
 
-4. Job presentation is very very important
+6. Job presentation is very very important
 * [Perfecting the job talk](PerfectingTheJobTalk-JE.pdf)
 
-5. [Seven steps to boost your research career in 2019](https://www.nature.com/articles/d41586-018-07807-x)
+7. [Seven steps to boost your research career in 2019](https://www.nature.com/articles/d41586-018-07807-x)
 
-6. Genetic Faculty in USA: https://www.nature.com/naturecareers/jobs/search?facets%5Bdiscipline%5D=Life%20Science&facets%5Bdiscipline%5D=Biomedicine&facets%5Bdiscipline%5D=Health%20Science&facets%5BjobType%5D=Faculty%20Member&location=United%20States&text=Genetics&facets[jobType]=Researcher
 
 ### Position 2019
 
