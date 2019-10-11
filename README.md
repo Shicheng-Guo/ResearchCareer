@@ -34,6 +34,8 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 8. K-grant writing workshops: https://ictr.wisc.edu/workshops-non-credit-courses/#inperson/
 
+9. ICTR FUNDING OPPORTUNITIES: https://ictr.wisc.edu/funding-opportunities/
+
 
 ### Position 2019
 
