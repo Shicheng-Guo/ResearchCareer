@@ -32,6 +32,8 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 7. [Seven steps to boost your research career in 2019](https://www.nature.com/articles/d41586-018-07807-x)
 
+8. K-grant writing workshops: https://ictr.wisc.edu/workshops-non-credit-courses/#inperson/
+
 
 ### Position 2019
 
