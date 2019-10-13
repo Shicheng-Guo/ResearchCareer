@@ -16,7 +16,7 @@ RESPONSIBILITIES
 
 REQUIREMENTS
 
-* PhD in Biomedical Sciences/Informatics, Bioinformatics, Statistics or related field
+*	PhD in Biomedical Sciences/Informatics, Bioinformatics, Statistics or related field
 *	Prior experience in leading basic, translational and clinical research
 *	5+ years of managerial experience
 *	Experience in clinical oncology is highly preferred
