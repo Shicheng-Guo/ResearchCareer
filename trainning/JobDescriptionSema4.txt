@@ -3,6 +3,7 @@ Sema4 is a patient-centered health intelligence company founded on the idea that
 Our R&D team is seeking a talented, self-motivated Sr. Director, Translational Medicine to participate in leading edge research in translational bioinformatics as a member of the R&D bioinformatics group. Successful applicant will be part of an interdisciplinary team to lead a group to develop and apply computational methods and databases to analyze large-scale human clinical, genetic, and genomic data in electronic medical records (EMR) to better understand treatment responses and clinical outcomes in order to improve health care. Successful applicant will also play a critical role in establishing partnership with pharmaceutical industry.
 
 RESPONSIBILITIES
+
 *	Work with the SVP of R&D Bioinformatics to develop and implement a strategy of translational science and translational medicine research supporting Sema4’s mission to improve health care
 *	Lead a group of scientists to develop and apply computational methods analyzing EMR data and genetic/genomic data to understand patient clinical history including disease diagnosis, treatment response and clinical outcomes
 *	Provide scientific leadership in clinical data abstraction from EMR
