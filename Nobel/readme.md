@@ -43,7 +43,7 @@ Edmond J. Safra Distinguished Professor Emeritus, Hebrew University of Jerusalem
 Former Director, Institute of Genetics and Molecular and Cellular Biology, Universitat Louis Pasteur, Strasbourg, France;
 and Professor, College de France, Paris, France
 
-* Yuan Chang
+* [Yuan Chang](https://en.wikipedia.org/wiki/Yuan_Chang)
 American Cancer Society Research Professor, Distinguished Professor of Pathology, and UPMC Endowed Chair in Cancer Virology, University of Pittsburgh School of Medicine, Pittsburgh, PA, United States
 
 * Hans Clevers
