@@ -2,8 +2,7 @@
 * Shizuo Akira
 Professor, Department of Host Defense, Research Institute for Microbial Diseases, Osaka University, Osaka, Japan
 
-* C. David Allis
-Tri-Institutional Professor and Joy and Jack Fishman Professor, Head,Laboratory of Chromatin Biology and Epigenetics, Rockefeller University, NY, United States
+* C. David Allis (`Histone code`) Tri-Institutional Professor and Joy and Jack Fishman Professor, Head,Laboratory of Chromatin Biology and Epigenetics, Rockefeller University, NY, United States
 
 * James P. Allison  2018
 Professor and Chair, Department of Immunology, M.D. Anderson Cancer Center, University of Texas, Houston, TX, United States
