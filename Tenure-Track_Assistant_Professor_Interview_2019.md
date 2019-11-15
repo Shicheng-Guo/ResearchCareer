@@ -1,8 +1,8 @@
 #### Tenure-Track_Assistant_Professor_Interview_2019
 * Re-read the job description three days before the phone interview. 
-* Essex MJ, Department of Psychiatry, University of Wisconsin-Madison, Madison, WI 53706.
+* Essex MJ, Department of Psychiatry, University of Wisconsin-Madison.
 * Sridharan R, Wisconsin Institute for Discovery, University of Wisconsin-Madison, Madison, WI, USA.
-* Dvinge H, Department of Biomolecular Chemistry, School of Medicine and Public Health, University of Wisconsin-Madison
+* Dvinge H, Department of Biomolecular Chemistry, School of Medicine and Public Health, UW-Madison
 * Lingjun Li, School of Pharmacy and Department of Chemistry, University of Wisconsin-Madison
 * Malecki KMC, Department of Population Health Sciences, School of Medicine and Public Health, UW-Madison
 * Vezina CM, Department of Comparative Biosciences, University of Wisconsin-Madison Madison.
