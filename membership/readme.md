@@ -1,2 +1,2 @@
-* ASHG: The American Society of Human Genetics
-* GSA: Genetics Society of America
+* ASHG: [The American Society of Human Genetics](https://www.ashg.org/)
+* GSA: [Genetics Society of America]()
