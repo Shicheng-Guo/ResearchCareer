@@ -2,7 +2,7 @@
 
 Nature Job in Genetics in USA
 
-https://www.nature.com/naturecareers/jobs/search?text=Genetics&location=United+States
+https://www.nature.com/naturecareers/jobs/search?text=Genetics&location=United+States&location_range=25&sort=newest
 
 Update webpage frequently: https://shicheng-guo.github.io
 
