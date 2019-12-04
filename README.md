@@ -2,6 +2,8 @@
 
 [Nature Job in Genetics in USA + Faculty + PI + Director + Editor + Head of Department](https://www.nature.com/naturecareers/jobs/search?facets%5Bdiscipline%5D=Life%20Science&facets%5Bdiscipline%5D=Biomedicine&facets%5Bdiscipline%5D=Health%20Science&facets%5BjobType%5D=Faculty%20Member&facets%5BjobType%5D=Researcher&facets%5BjobType%5D=Director&facets%5BjobType%5D=Head%20of%20Department&facets%5BjobType%5D=Principal%20Investigator&facets%5BjobType%5D=Project%20Manager&facets%5BjobType%5D=Editor&location=United%20States&location_range=25&sort=newest&text=Genetics&facets[discipline]=Environmental%20Science)
 
+[Genomics Faculty Jobs on Genomeweb](https://www.genomeweb.com/resources/jobs)
+
 Update webpage frequently: https://shicheng-guo.github.io
 
 1. How to prepare a good cover letter
