@@ -53,3 +53,4 @@ Update webpage frequently: https://shicheng-guo.github.io
 ### Protocol 2019
 * cfMeDIP-seq : https://www.nature.com/articles/s41596-019-0202-2.pdf
 * 5-AZA Meth-seq: 
+* m6A-seq protocol: https://www.illumina.com/science/sequencing-method-explorer/kits-and-arrays/merip-seq-m6a-seq.html
