@@ -8,4 +8,5 @@
 * L1000CDS: https://amp.pharm.mssm.edu/L1000CDS2/#/index
 * CCLE: https://www.gtexportal.org/home/gene/NCOA4
 * Cancer Dependency Map: https://depmap.org/portal/
+* DepMap Portal: https://depmap.org/portal/depmap/
 
