@@ -6,3 +6,6 @@
 * RNA Secondary Structure Visualization: http://rna.tbi.univie.ac.at/forna/
 * KEGG view: https://pathview.uncc.edu/
 * L1000CDS: https://amp.pharm.mssm.edu/L1000CDS2/#/index
+* CCLE: https://www.gtexportal.org/home/gene/NCOA4
+* Cancer Dependency Map: https://depmap.org/portal/
+
