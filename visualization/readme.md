@@ -10,3 +10,4 @@
 * Cancer Dependency Map: https://depmap.org/portal/
 * DepMap Portal: https://depmap.org/portal/depmap/
 * NIH cancer treatment: https://www.cancer.gov/about-cancer/treatment
+* Broad Institute Cancer Cell Line Encyclopedia (CCLE): https://portals.broadinstitute.org/ccle/page?gene=ZNF132
