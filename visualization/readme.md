@@ -11,3 +11,4 @@
 * DepMap Portal: https://depmap.org/portal/depmap/
 * NIH cancer treatment: https://www.cancer.gov/about-cancer/treatment
 * Broad Institute Cancer Cell Line Encyclopedia (CCLE): https://portals.broadinstitute.org/ccle/page?gene=ZNF132
+* Doing Meta-Analysis in R, support your research with multiple evidence: https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/
