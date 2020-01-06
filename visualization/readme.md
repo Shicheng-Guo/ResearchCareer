@@ -13,4 +13,5 @@
 * Broad Institute Cancer Cell Line Encyclopedia (CCLE): https://portals.broadinstitute.org/ccle/page?gene=ZNF132
 * Meta in R, support research with multi-evidences: https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/
 * UCSC Toil RNAseq Recompute Compendium: https://xenabrowser.net/datapages/?host=https://toil.xenahubs.net
+* Transcript level TCGA vs GTEx: https://xenabrowser.net/datapages/?host=https://toil.xenahubs.net
 
