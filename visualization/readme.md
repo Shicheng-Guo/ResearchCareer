@@ -15,3 +15,4 @@
 * UCSC Toil RNAseq Recompute Compendium: https://xenabrowser.net/datapages/?host=https://toil.xenahubs.net
 * Transcript level TCGA vs GTEx: https://xenabrowser.net/datapages/?host=https://toil.xenahubs.net
 * TCGA-TPM-expression are produced at UCSC https://xenabrowser.net/datapages/?host=https://toil.xenahubs.net
+* R heatmap: https://www.datanovia.com/en/lessons/heatmap-in-r-static-and-interactive-visualization/
