@@ -1,4 +1,4 @@
-### How to prepare your research career
+## How to prepare your research career
 
 Timeline:
 
