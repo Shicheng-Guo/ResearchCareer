@@ -38,6 +38,8 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 9. ICTR FUNDING OPPORTUNITIES: https://ictr.wisc.edu/funding-opportunities/
 
+10. 2-2-2: [Writing Productivity Pipeline](https://github.com/Shicheng-Guo/ResearchCareer/blob/master/My%20Writing%20Productivity%20Pipeline%20-%20The%20Chronicle%20of%20Higher%20Education.pdf): 2-2-2 rule: Always have two manuscripts in preparation, two under review, and two in press
+
 
 ### Position 2019
 
