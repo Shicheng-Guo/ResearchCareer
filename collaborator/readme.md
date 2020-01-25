@@ -7,5 +7,4 @@
 
 ### Foundation
 
- * PhRMA Foundation: http://www.phrmafoundation.org/about/
- 
+ * PhRMA Foundation: https://apc.ucc.ie/science-foundation-ireland-industry-fellowship/
