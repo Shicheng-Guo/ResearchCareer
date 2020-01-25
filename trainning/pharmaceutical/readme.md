@@ -4,4 +4,3 @@ Timeline:
 * give your skills and experience and learn pharmaceutical knowledge and project management skills. 
 * 
 *
-*
