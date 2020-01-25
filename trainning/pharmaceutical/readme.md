@@ -2,6 +2,7 @@ Timeline:
 
 * only 15% stuff in pharmaceutical company is R & D
 * give your skills and experience and learn pharmaceutical knowledge and project management skills. 
+* in 1886, 
 * 1980 JNJ Tylenol tampering crisis
 * in 1953, Dr. Paul Janssen (1926-2003) established Janssen Pharmaceutical in Beerse Belgium 
 * in 1961, Janssen was acquired by JNJ and in 1992 Janssen started a US headquarters in Titusville New Jersey
