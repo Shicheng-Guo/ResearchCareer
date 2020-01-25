@@ -4,7 +4,7 @@ Timeline:
 * give your skills and experience and learn pharmaceutical knowledge and project management skills. 
 * 1980 JNJ Tylenol tampering crisis
 * in 1953, Dr. Paul Janssen (1926-2003) established Janssen Pharmaceutical in Beerse Belgium 
-* in 1961, JNJ and Janssen merged and in 1992 Janssen started a US headquarters in Titusville New Jersey
+* in 1961, Janssen was acquired by JNJ and in 1992 Janssen started a US headquarters in Titusville New Jersey
 * Dr. Paul Janssen published more than 850 scientific publications and >30 honorary members
 * JNJ = consumer health + medical devices + pharmaceutical, intangible asets = 390 billion
 * traditional pharmaceutical manufacturing: chemical synthesis, formulation, tablet compression, tablet coating
