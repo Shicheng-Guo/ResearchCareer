@@ -1,6 +1,6 @@
 * 应该列举自己所有的项目的进展和时间表.
 * 每次会议都要有落实，必须给出所有任务的具体的时间表.
-* 自己的工作的性质要明确，你support的工作是哪些（就是你仅仅是帮忙的项目，这个项目不是你的，你只是在其中帮忙做点东西而已，发表时你只是众多author中的一员），你develop的工作是哪些（这个是你自己的项目，你自己明白aim和method以及最后的结果，发表时你是第一作者），你负责lead和manage的工作是哪些（如果一个项目需要好几个环节才能完成，也就是说需要好几个人负责帮忙，那么你需要进行安排和领导，控制进度，对数据质量进行评估，以及负责项目的整体推动和文章撰写）.
+* 自己的工作的性质要明确，你support的工作是哪些（就是你仅仅是帮忙的项目，这个项目不是你的，你只是在其中帮忙做点东西而已，发表时你只是众多author中的一员），你develop的工作是哪些（这个是你自己的项目，你自己明白aim和method，你自己要collect数据，以及分析数据产生最后的结果，并撰写论文，发表时你是第一作者），你负责lead和manage的工作是哪些（如果一个项目需要好几个环节才能完成，也就是说需要好几个人负责帮忙，那么你需要进行安排和领导，控制进度，对数据质量进行评估，以及负责项目的整体推动和文章撰写）.
 * 不要抢别人的功劳，负责好你自己develop和manage的项目，你support的项目应该让主负责人进行汇报.
 
 * Scientist 1 is an entry level position. He/She is a capable individual with credentials but probably someone who is fresh out of academics. Their theoretical concepts are accurate but they don’t really have real world experience to realize the gaps in their knowledge with respect to real world constraints and they don’t how to deal with them.
