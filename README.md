@@ -40,7 +40,9 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 10. [Productivity Pipeline](https://github.com/Shicheng-Guo/ResearchCareer/blob/master/My%20Writing%20Productivity%20Pipeline%20-%20The%20Chronicle%20of%20Higher%20Education.pdf): 2-2-2 rule: Always have two manuscripts in preparation, two under review, and two in press
 
-11. [Guidelines_for_writing_a_commentary.pdf](trainning/Guidelines_for_writing_a_commentary.pdf)
+11. How to write an commentary: [Guidelines_for_writing_a_commentary.pdf](trainning/Guidelines_for_writing_a_commentary.pdf)
+
+12. How to write an editorial: [How_to_Writing_an_Editorial.pdf](trainning/How_to_Writing_an_Editorial.pdf)
 
 ### Position 2019
 
@@ -49,6 +51,8 @@ Update webpage frequently: https://shicheng-guo.github.io
 * https://www.nature.com/naturecareers/job/research-assistant-professor-computational-genomics-and-information-technology-for-neurodegeneration-research-university-of-pennsylvania-penn-696781
 
 * [UW-Madison Resource: ](https://cancer.wisc.edu/research/shared-resources/)
+
+
 
 ### Software 2019
 
