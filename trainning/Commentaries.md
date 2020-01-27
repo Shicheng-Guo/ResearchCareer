@@ -1,4 +1,4 @@
-#### How to prepare Commentary paper
+## How to prepare Commentary paper
 
 * Commentaries are short, narrowly focused articles that are usually commissioned by the journal. These articles are generally not peer-reviewed. A Commentary generally takes one of two forms:
 * The first form aims to highlight one or more exciting research articles or clinical trials recently published in BMC Medicine or another journal, to discuss specific issues within a subject area rather than the whole field, and to explain the clinical implications of the article to place the new findings into context. Opinions are welcome as long as they are factually based.
