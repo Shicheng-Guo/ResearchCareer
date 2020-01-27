@@ -40,7 +40,7 @@ Update webpage frequently: https://shicheng-guo.github.io
 
 10. [Productivity Pipeline](https://github.com/Shicheng-Guo/ResearchCareer/blob/master/My%20Writing%20Productivity%20Pipeline%20-%20The%20Chronicle%20of%20Higher%20Education.pdf): 2-2-2 rule: Always have two manuscripts in preparation, two under review, and two in press
 
-11. [Guidelines_for_writing_a_commentary.pdf]()
+11. [Guidelines_for_writing_a_commentary.pdf](trainning/Guidelines_for_writing_a_commentary.pdf)
 
 ### Position 2019
 
