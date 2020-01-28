@@ -1,6 +1,6 @@
 ### News_Views_Commentaries
 
-Dear Dr. xx,
+Dear Dr. Chen,
 
 Considering that you are one of the most successful scientists in this field, we invite you to submit a commentary to the most recent published article N6-methyladenosine regulates the stability of RNA: DNA hybrids in human cells, Nature Genetics 52, 48-55 (2020) to International Journal Of Genetic Medicine And Gene Therapy to discuss the pros and cons, clinical and health significance or to pinpoint the future potential interesting research based on this study. If you are interested in it, we are appreciated that you can submit your commentary within 10 days. if you are not interested in or you are not available, we are appreciated if you can give us a response so that we can assign it to other potential scientists.
 
