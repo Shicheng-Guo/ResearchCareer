@@ -20,3 +20,4 @@
 * The SIGnaling Network Open Resource: https://signor.uniroma2.it/relation_result.php?id=Q13772
 * Pathway common search: https://apps.pathwaycommons.org/search?type=Pathway&q=NCOA4
 * A Summary of Missense Prediction Methods, http://acrmwww.biochem.ucl.ac.uk/saap/methods/
+* SAAPdap - Single Amino Acid Polymorphism data analysis pipeline: http://acrmwww.biochem.ucl.ac.uk/saap/dap/
