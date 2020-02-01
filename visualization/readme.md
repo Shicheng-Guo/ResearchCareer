@@ -25,3 +25,4 @@
 * Illustrator for Biological Sequences (IBS): http://ibs.biocuckoo.org/download.php
 * MotifMap: genome-wide maps of regulatory elements: http://motifmap.ics.uci.edu/
 * Jvarkit : Java utilities for Bioinformatics: http://lindenb.github.io/jvarkit/
+* FGF6-blood: https://github.com/Shicheng-Guo/2LOF/tree/master/man
