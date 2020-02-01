@@ -7,6 +7,7 @@
 * Dr. Zhaolan Joe Zhou, https://www.med.upenn.edu/apps/faculty/index.php/g20000322/p8330052
 * Dr. Hao Wu, https://hosting.med.upenn.edu/epigenetics/faculty/hao-wu/
 * Dr. Rugang Zhang, https://wistar.org/our-scientists/rugang-zhang
+* Dr. Jian Ren, https://www.renlab.org/index.html
 
 ### Foundation
 
