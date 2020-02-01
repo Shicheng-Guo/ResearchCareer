@@ -26,3 +26,4 @@
 * MotifMap: genome-wide maps of regulatory elements: http://motifmap.ics.uci.edu/
 * Jvarkit : Java utilities for Bioinformatics: http://lindenb.github.io/jvarkit/
 * FGF6-blood: https://github.com/Shicheng-Guo/2LOF/tree/master/man
+* ANNOVAR: https://github.com/Shicheng-Guo/HowtoBook/tree/32611e585809a716bd0776a4aa7cb0fcad5ba18a/ANNOVAR
