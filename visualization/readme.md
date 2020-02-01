@@ -23,3 +23,5 @@
 * SAAPdap - Single Amino Acid Polymorphism data analysis pipeline: http://acrmwww.biochem.ucl.ac.uk/saap/dap/
 * Domain Graph, version 2.0: http://dog.biocuckoo.org/down.php
 * Illustrator for Biological Sequences (IBS): http://ibs.biocuckoo.org/download.php
+* MotifMap: genome-wide maps of regulatory elements: http://motifmap.ics.uci.edu/
+
