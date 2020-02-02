@@ -27,3 +27,4 @@
 * Jvarkit : Java utilities for Bioinformatics: http://lindenb.github.io/jvarkit/
 * FGF6-blood: https://github.com/Shicheng-Guo/2LOF/tree/master/man
 * ANNOVAR: https://github.com/Shicheng-Guo/HowtoBook/tree/master/ANNOVAR
+* EMBL-EBI: Protein Functional Analysis: https://www.ebi.ac.uk/Tools/pfa/
