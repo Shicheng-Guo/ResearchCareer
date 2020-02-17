@@ -31,3 +31,5 @@
 * ComplexHeatmap tutorial 1: https://jokergoo.github.io/ComplexHeatmap-reference/book/heatmap-annotations.html
 * ComplexHeatmap tutorial 2: https://github.com/Shicheng-Guo/ComplexHeatmap
 * miRNet: https://www.mirnet.ca/miRNet/upload/MirUploadView.xhtml
+* Power estimation: http://csg.sph.umich.edu/abecasis/cats/gas_power_calculator/
+
