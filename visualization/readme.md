@@ -35,4 +35,5 @@
 * miRNet: https://www.mirnet.ca/miRNet/upload/MirUploadView.xhtml
 * Power estimation: http://csg.sph.umich.edu/abecasis/cats/gas_power_calculator/
 * RNAfold web server ([example](https://github.com/Shicheng-Guo/RNAfold/blob/master/hsa-mir-323b/readme.md)): http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
+* miRNA-SNP-seed region, mature: http://bioinfo.life.hust.edu.cn/miRNASNP2/index.php
 
