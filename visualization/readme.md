@@ -34,4 +34,5 @@
 * ComplexHeatmap tutorial 2: https://github.com/Shicheng-Guo/ComplexHeatmap
 * miRNet: https://www.mirnet.ca/miRNet/upload/MirUploadView.xhtml
 * Power estimation: http://csg.sph.umich.edu/abecasis/cats/gas_power_calculator/
+* RNAfold web server ([example]()): http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
 
