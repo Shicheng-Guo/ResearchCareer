@@ -37,5 +37,5 @@
 * RNAfold web server ([example](https://github.com/Shicheng-Guo/RNAfold/blob/master/hsa-mir-323b/readme.md)): http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
 * miRNA-SNP-seed region, mature: http://bioinfo.life.hust.edu.cn/miRNASNP2/index.php
 * Locus room for manhattan plot: http://locuszoom.org/
-* BIS180L A Lab Course at UC Davis to introduce Genetics and Genomics: https://jnmaloof.github.io/BIS180L_web/slides/
+* BIS180L: Introduce Genetics and Genomics major: https://jnmaloof.github.io/BIS180L_web/slides/
 
