@@ -38,4 +38,5 @@
 * miRNA-SNP-seed region, mature: http://bioinfo.life.hust.edu.cn/miRNASNP2/index.php
 * Locus room for manhattan plot: http://locuszoom.org/
 * BIS180L: Introduce Genetics and Genomics major: https://jnmaloof.github.io/BIS180L_web/slides/
+* kits and library: https://www.addgene.org/
 
