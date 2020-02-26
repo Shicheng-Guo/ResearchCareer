@@ -1,0 +1,78 @@
+.sites-chrome-header-valign-top {
+	vertical-align: top !important;
+}
+.sites-chrome-header-valign-top h2 a {
+	vertical-align: top !important;
+}
+.sites-chrome-header-valign-top h2 a img {
+	vertical-align: top !important;
+}
+.sites-layout-searchbox .sites-chrome-header-valign-top {
+	vertical-align: top !important;
+}
+#sites-chrome-everything #sites-chrome-header .sites-chrome-header-valign-top.sites-logo {
+	float: none;
+}
+.sites-chrome-header-valign-bottom {
+	vertical-align: bottom !important;
+}
+.sites-chrome-header-valign-bottom h2 a {
+	vertical-align: bottom !important;
+}
+.sites-chrome-header-valign-bottom h2 a img {
+	vertical-align: bottom !important;
+}
+.sites-layout-searchbox .sites-chrome-header-valign-bottom {
+	vertical-align: bottom !important;
+}
+#sites-chrome-everything #sites-chrome-header .sites-chrome-header-valign-bottom.sites-logo {
+	float: none;
+}
+.sites-chrome-header-valign-middle {
+	vertical-align: middle !important;
+}
+h2 a .sites-chrome-header-valign-middle {
+	vertical-align: middle !important;
+}
+h2 a img .sites-chrome-header-valign-middle {
+	vertical-align: middle !important;
+}
+.sites-layout-searchbox .sites-chrome-header-valign-middle {
+	vertical-align: middle !important;
+}
+#sites-chrome-everything #sites-chrome-header .sites-chrome-header-valign-middle.sites-logo {
+	float: none;
+}
+.sites-header-title-centered {
+	text-align: center !important;
+}
+.sites-layout-searchbox-centered {
+	text-align: center !important;
+}
+#sites-chrome-everything #sites-chrome-header .sites-logo-centered {
+	padding: 0px; float: none; background-color: transparent;
+}
+.sites-subfooter {
+	overflow: auto;
+}
+.sites-canvas-sidebar {
+	width: 150px;
+}
+#sites-chrome-sidebar-left .sites-sidebar-nav a {
+	color: rgb(192, 71, 47) !important;
+}
+#sites-chrome-sidebar-right .sites-sidebar-nav a {
+	color: rgb(192, 71, 47) !important;
+}
+#sites-chrome-sidebar-left .sites-sidebar-nav a:visited {
+	color: rgb(192, 71, 47) !important;
+}
+#sites-chrome-sidebar-right .sites-sidebar-nav a:visited {
+	color: rgb(192, 71, 47) !important;
+}
+#sites-chrome-header-wrapper {
+	border-bottom-color: currentColor !important; border-bottom-width: 0px !important; border-bottom-style: none !important;
+}
+#sites-chrome-header .sites-header-nav-dropdown-menuitem-content a.current {
+	font-weight: bold;
+}

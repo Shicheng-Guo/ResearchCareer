@@ -1,0 +1,41 @@
+@font-face {
+	font-family: ie-sites-symbol-font;
+	src: url(../images/sites.eot);
+}
+@font-face {
+	font-family: non-ie-sites-symbol-font;
+	src: url(../images/sites.ttf);
+}
+.sites-symbol {
+	font-family: ie-sites-symbol-font,non-ie-sites-symbol-font; font-size: 25px;
+}
+.sites-translucent {
+	display: inline-block; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50); opacity: 0.5;
+}
+.sites-color-adobe-pdf {
+	color: rgb(251, 76, 47);
+}
+.sites-color-google-doc {
+	color: rgb(73, 134, 231);
+}
+.sites-color-google-drawing {
+	color: rgb(244, 180, 0);
+}
+.sites-color-google-form {
+	color: rgb(22, 167, 101);
+}
+.sites-color-google-presentation {
+	color: rgb(224, 74, 63);
+}
+.sites-color-google-spreadsheet {
+	color: rgb(22, 167, 101);
+}
+.sites-color-ms-excel {
+	color: rgb(22, 167, 100);
+}
+.sites-color-ms-powerpoint {
+	color: rgb(255, 117, 55);
+}
+.sites-color-ms-word {
+	color: rgb(73, 134, 231);
+}

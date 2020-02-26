@@ -1,0 +1,302 @@
+
+1. The RNA N6-methyladenosine regulates chromatin remodeling and transcription [HEC-1-A_seq]
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL24676 GPL20301 40 Samples
+FTP download: GEO (NARROWPEAK, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140561/
+Series		Accession: GSE140561	ID: 200140561
+
+2. The RNA N6-methyladenosine regulates chromatin remodeling and transcription [HEC-1-A_seq_RNA_MeRIP]
+(Submitter supplied) The N6-methyladenosine (m6A) has been shown to regulate stability and translation of messenger RNA (mRNA) in various biological processes. Here, we show that the knockout of the m6A writer Mettl3 or a nuclear reader Ythdc1 in mouse embryonic stem cells (mESCs) induces chromatin openness and transcription activation in an m6A-dependent manner. We identified extensive m6A modifications on caRNAs (chromosome-associated RNAs, including promoter-associated RNAs, enhancer RNAs and repeats) that are installed by METTL3. more...
+Organism:	Homo sapiens
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL24676 8 Samples
+FTP download: GEO (NARROWPEAK) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140557/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA590170
+Series		Accession: GSE140557	ID: 200140557
+
+3. N6-methyladenosine (m6A) profiling of ovarian cancer tissues
+(Submitter supplied) We developed RADAR , a method for detecting differential methylated loci in MeRIP-seq data. RADAR uses a flexible model to accommodate increased noise due to RNA immunoprecipitation and are compatible with complex study design. RADAR enabled accurate identification of altered methylation sites in patient  samples where covariates need to be accounted for. We use the m6A-profiling of ovarian cancer data as an example data set to benchmart the performance of RADAR and a few alternative methods.
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL18573 26 Samples
+FTP download: GEO (TSV, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE119nnn/GSE119168/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA488293
+Series		Accession: GSE119168	ID: 200119168
+
+4. MeRIP-seq of control and TARBP2 knockdown cells
+(Submitter supplied) To identify changes in methylation patterns following TARBP2 knockdown, m6A-IP followed by RNA-seq was performed on breast cancer cells expressing shRNAs against TARBP2 (and non-targeting shControl cells).
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 8 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130893/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA541917
+Series		Accession: GSE130893	ID: 200130893
+
+5. siRNA-mediated knockdown
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL20301 GPL18573 GPL16791 40 Samples
+FTP download: GEO (FPKM_TRACKING, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130894/
+Series		Accession: GSE130894	ID: 200130894
+
+6. MeRIP sequencing reveals angiogenic properties of vascular endothelial cells
+(Submitter supplied) We report the application of MeRIP sequencing technology for high-throughput profiling of RNA m6A modifications in wide-type and knock-down METTL3 or WTAP Human Umbilical Vein Endothelial Cells (HUVECs). Both the input samples without immunoprecipitation and the m6A IP samples were used for RNA-seq library generation with NEBNext® Ultra II Directional RNA Library Prep Kit (New England Biolabs, Inc., USA). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL20301 12 Samples
+FTP download: GEO (BED, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE142nnn/GSE142386/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA596787
+Series		Accession: GSE142386	ID: 200142386
+
+7. Analysis of gene expression, motif and pattern of m6A modified region and m6A enrichment level in Ocular melanoma and Melanocyte cell lines. Gene expressin analysis of METTL3 knock down in PIG1, ALKBH5 knock down and HINT2 over expression in OCM1.
+(Submitter supplied) Dynamic N6-methyladenosine (m6A) RNA modification installed and erased by N6-methyltransferases and demethylases regulates gene expression, alternative splicing and cell fate. Ocular melanoma, comprising uveal melanoma (UM) and conjunctival melanoma (CM), is the most common primary eye tumor in adults and the 2nd most common melanoma. However, the functional role of m6A modification in ocular melanoma remains unclear. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Other
+Platforms: GPL20301 GPL20795 42 Samples
+FTP download: GEO (XLS, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137675/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA566191
+Series		Accession: GSE137675	ID: 200137675
+
+8. Identification of N6-methyladenosine functions of YTHDF3 using MeRIP-seq analysis combined with transcription sequencing
+(Submitter supplied) We performed methylated RNA immunoprecipitation followed by sequencing (MeRIP–seq) combined with transcription sequencing to clarify the mechanism underlined YTHDF3 in CRC
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL24676 8 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129716/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA532587
+Series		Accession: GSE129716	ID: 200129716
+
+9. m6A facilitates transcription termination by promoting R-loop formation
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL20795 26 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134964/
+Series		Accession: GSE134964	ID: 200134964
+
+10. m6A profiles in shCTRL, shMETTL3 HeLa cells
+(Submitter supplied) Cells were washed with cold PBS twice and scraped from the plates, then centrifuged at 1000 rpm for 5 min to pellet cells. Washed cells were lysed with 400 L of cell lysis buffer (10 mM Tris-HCl pH7.5, 150 mM NaCl, 0.15% NP-40 and proteinase inhibitor cocktail) and incubated on ice for 10 min. The suspension was carefully add at the top of sucrose buffer (10 mM Tris-HCl pH7.5, 150 mM NaCl, 24% sucrose), and centrifuged at 3200g for 10 min to collect nuclear pellets. more...
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL20795 8 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134103/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA553776
+Series		Accession: GSE134103	ID: 200134103
+
+11. The N6-methylation of adenosine (m6A) in FZD10 mRNA contributes to PARP inhibitor resistance
+(Submitter supplied) Chemical modifications of RNAs have emerged as a new layer of epigenetic gene regulation. N6-methyladenosine (m6A) is the most abundant chemical modification of messenger RNA (mRNA). The m6A modification affects RNA fate and functions such as RNA stability.  Despite the high initial response rates to PARP inhibitors in BRCA1/2-mutated epithelial ovarian cancers (EOC), PARP inhibitor (PARPi) resistance remains a major challenge. more...
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL18573 4 Samples
+FTP download: GEO (BW, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE119nnn/GSE119963/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA490840
+Series		Accession: GSE119963	ID: 200119963
+
+12. N6-methyladenosine mRNA marking promotes selective translation of regulons required for human erythropoiesis [MeRIP-seq]
+(Submitter supplied) Many of the regulatory features governing erythrocyte specification, maturation, and associated disorders remain enigmatic. To identify new regulators of erythropoiesis, we performed a functional genomic screen for genes affecting expression of the erythroid marker CD235a/GYPA. Among validating hits were genes coding for the N6-methyladenosine (m6A) mRNA methyltransferase (MTase) complex, including, METTL14, METTL3, and WTAP. more...
+Organism:	Homo sapiens
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL11154 28 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE106nnn/GSE106122/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA415689
+Series		Accession: GSE106122	ID: 200106122
+
+13. N6-methyladenosine (m6A) profiling of type II diabetes islets
+(Submitter supplied) In type 2 diabetes, pancreatic beta-cells fail to compensate for the presence of insulin resistance in target tissues and represent a central player in the disease development. Identifying and studying innovative molecular mechanisms that lead to beta-cell failure in diabetes represent an interesting line of research and are necessary. N6-Methyladenosine (m6A) is the most abundant modification in mRNA and is found virtually in all mammals. more...
+Organism:	Homo sapiens
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL20301 30 Samples
+FTP download: GEO (TSV, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE120nnn/GSE120024/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA491415
+Series		Accession: GSE120024	ID: 200120024
+
+14. Genome-wide identification of transcripts associated with KIAA1429 by RIP-seq
+(Submitter supplied) N6-methyladenosine (m6A) modification, as the most abundant internal methylation of eukaryotic RNA transcripts, is critically implicated in RNA processing, decay, transport and translation. Here we showed that KIAA1429, the largest known component in the m6A methyltransferase complex, was considerably upregulated in hepatocellular carcinoma (HCC) tissues. High expression of KIAA1429 was significantly associated with the malignant clinical features and the poor prognosis of HCC patients. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20301 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134978/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA556906
+Series		Accession: GSE134978	ID: 200134978
+
+15. Gene expression profiling for HCCLM3 cells with shCtrl or shKIAA1429
+(Submitter supplied) N6-methyladenosine (m6A) modification, as the most abundant internal methylation of eukaryotic RNA transcripts, is critically implicated in RNA processing, decay, transport and translation. Here we showed that KIAA1429, the largest known component in the m6A methyltransferase complex, was considerably upregulated in hepatocellular carcinoma (HCC) tissues. High expression of KIAA1429 was significantly associated with the malignant clinical features and the poor prognosis of HCC patients. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20301 4 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134776/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA556402
+Series		Accession: GSE134776	ID: 200134776
+
+16. Profiling of N6-Adenosine (m6A) methylation in HCCLM3 cells with shCtrl or shKIAA1429
+(Submitter supplied) N6-methyladenosine (m6A) modification, as the most abundant internal methylation of eukaryotic RNA transcripts, is critically implicated in RNA processing, decay, transport and translation. Here we showed that KIAA1429, the largest known component in the m6A methyltransferase complex, was considerably upregulated in hepatocellular carcinoma (HCC) tissues. High expression of KIAA1429 was significantly associated with the malignant clinical features and the poor prognosis of HCC patients. more...
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL20301 6 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134630/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA555891
+Series		Accession: GSE134630	ID: 200134630
+
+17. PCIF1 catalyzes m6Am mRNA methylation to regulate gene expression
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL18573 GPL11154 57 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122803/
+Series		Accession: GSE122803	ID: 200122803
+
+18. m6A MeRIP-Seq of MEL624 control and PCIF1 KO cells
+(Submitter supplied) We analyzed m6A distribution by m6A MeRIP in otder to determine the effect of PCIF1 KO over m6A distribution in human melanoma cells
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11154 18 Samples
+FTP download: GEO (BW, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122801/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA506411
+Series		Accession: GSE122801	ID: 200122801
+
+19. Changes in m6A RNA methylation contribute to heart failure progression by modulating translation
+(Submitter supplied) We analysed m6A RNA methylation via next generation sequencing (NGS). We found that approximately one quarter of the transcripts in the healthy mouse and human heart exhibit m6A RNA-methylation. There was a mild positive correlation of m6A RNA-methylation at the 5’UTR and coding region with transcript level while m6A RNA-methylation at the 3’UTR showed a mild negative correlation. When we analyzed heart failure in mice and humans we observed that changes in m6A RNA-methylation exceed changes in gene-expression. more...
+Organism:	Homo sapiens; Mus musculus
+Type:		Other
+Platforms: GPL13112 GPL11154 80 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131296/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA543140
+Series		Accession: GSE131296	ID: 200131296
+
+20. MeRIP-seq for heat shock in B-cell lymphoma cells
+(Submitter supplied) We ran MeRIP-seq on RNA from heat shocked (43 C for 1 hr) and untreated cells to compare to previous reports as part of an evaluation of MeRIP-seq reproducibility.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL16791 12 Samples
+FTP download: GEO (NARROWPEAK) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130892/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA541915
+Series		Accession: GSE130892	ID: 200130892
+
+21. MeRIP-seq for host response to Flaviviridae infection
+(Submitter supplied) The modification N6-methyladenosine (m6A) affects rates of translation and degradation of mRNA transcripts. We analyzed m6A across the transcriptome following infection by dengue virus (DENV), Zika virus (ZIKV), West Nile virus (WNV), and hepatitis C virus (HCV) using MeRIP-seq. We used the uninfected replicates, among which we would expect little biological variation in methylation, as negative controls to validate statistical methods for the detection of m6A changes in MeRIP-seq data. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL16791 48 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130891/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA541914
+Series		Accession: GSE130891	ID: 200130891
+
+22. Transcriptome Mapping of Internal N7-methylguanosine Methylome in Mammalian mRNA
+(Submitter supplied) Zhang et al. discovered the presence of internal N7-methylguanosine (m7G) within mammalian mRNA. Both antibody-based and chemical-assisted methods were developed for transcriptome-wide mapping of internal m7G, with the latter reaching single-base resolution. METTL1/WDR4 was identified as a writer complex that installs a subset of m7G on mRNA, which affects translation.
+Organism:	Homo sapiens; Mus musculus
+Type:		Methylation profiling by high throughput sequencing; Other
+Platforms: GPL19057 GPL18573 GPL20301 104 Samples
+FTP download: GEO (BED, FPKM_TRACKING, TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE112nnn/GSE112276/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA445453
+Series		Accession: GSE112276	ID: 200112276
+
+23. N6-Methyladenosine Modification of Hepatitis B Virus RNA Differentially Regulates The Viral Life Cycle  
+(Submitter supplied) N6-methyladenosine (m6A) RNA methylation is the most abundant epitranscriptomic modification of eukaryotic messenger RNAs (mRNAs). Previous reports have found m6A on both cellular and viral transcripts and defined its role in regulating numerous biological processes, including viral infection. Here, we show that m6A and its associated machinery regulate the life cycle of hepatitis B virus (HBV). HBV is a DNA virus that completes its life cycle via an RNA intermediate, termed pregenomic RNA (pgRNA). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 6 Samples
+FTP download: GEO (NARROWPEAK) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE114nnn/GSE114486/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA471523
+Series		Accession: GSE114486	ID: 200114486
+
+24. m6A-seq  data analysis of control and PCIF1 knockdown transcriptome
+(Submitter supplied) Purpose: To identify the in vivo RNA targets of PCIF1, we performed meRIP experiments for PCIF1 KD and control cells using an anti-m6A antibody. We envisioned that the cap-specific PCIF1 should selectively alter the m6Am modification at the 5-terminal region of transcripts. Indeed, we observed a reduction of modification peaks at the 5’-end but not the 3’-UTR regions of mRNA upon PCIF1 KD.
+Organism:	Homo sapiens
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL20795 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE120nnn/GSE120229/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA492247
+Series		Accession: GSE120229	ID: 200120229
+
+25. Dynamic m6A mRNA methylation reveals novel insights into mechanisms of chemical carcinogenesis
+(Submitter supplied) m6A epitranscriptome profiling in four different chemical carcinogen induced transformation models uncovered the dynamic changes of m6A modifications during chemical carcinogenesis.
+Organism:	Homo sapiens
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL18573 14 Samples
+FTP download: GEO (BED, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE112nnn/GSE112970/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA449645
+Series		Accession: GSE112970	ID: 200112970
+
+26. Refined RIP-seq protocol for epitranscriptome analysis with low input materials
+(Submitter supplied) We optimized the key parameters of m6A MeRIP-seq, including the starting amount of RNA, RNA fragmentation, antibody selection, MeRIP washing/elution conditions, methods for RNA library construction and the bioinformatics analysis pipeline. With the optimized immunoprecipitation conditions and a post-amplification rRNA depletion strategy, we were able to profile the m6A epitranscriptome using 2 µg of total RNA. more...
+Organism:	Homo sapiens
+Type:		Other
+Platforms: GPL16791 GPL18573 15 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116002/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA476772
+Series		Accession: GSE116002	ID: 200116002
+
+27. N6-methyladenosine modification  in lytic viral gene expression during Kaposi's sarcoma-associated herpesvirus infection [MeRIP-seq]
+(Submitter supplied) Methylation at the N6 position of adenosine (m6A) is a highly prevalent reversible modification within eukaryotic mRNAs that has been linked to many stages of RNA processing and fate. Recent studies suggest that m6A deposition and proteins involved in the m6A pathway play a diverse set of roles in either restricting or modulating the lifecycles of select viruses. Here, we report that m6A levels are significantly increased in cells infected with the oncogenic human DNA virus Kaposi’s sarcoma-associated herpesvirus (KSHV). more...
+Organism:	Homo sapiens
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL16791 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE104nnn/GSE104621/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA413317
+Series		Accession: GSE104621	ID: 200104621
+
+28. Promoter-bound METTL3 maintains myeloid leukemia by m6A-dependent regulation of protein translation
+(Submitter supplied) N6-methyladenosine (m6A) is an abundant internal RNA modification, in both coding and non-coding RNAs, catalyzed by the METTL3/METTL14 methyltransferase complex. We identified METTL3 as an essential gene for acute myeloid leukemia (AML) cell growth in two distinct genetic screens. Down-regulation of METTL3 results in cell cycle arrest, differentiation of leukemic cells and failure to establish leukemia in immunodeficient mice. more...
+Organism:	Homo sapiens
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Other
+Platforms: GPL18460 GPL20301 42 Samples
+FTP download: GEO (BIGWIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE94nnn/GSE94613/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA371833
+Series		Accession: GSE94613	ID: 200094613
+
+29. N6-methyladenosine Recruits HNRNPG for Alternative Splicing Regulation
+(Submitter supplied) Understanding how RNA-binding proteins interact with RNA transcripts for splicing regulation is fundamental to human biology and disease. N6-methyladenosine (m6A), the most abundant and dynamic internal modification of eukaryotic messenger RNA (mRNA), is important for RNA splicing, but its detailed mechanism remains unclear. We find the splicing factor heterogeneous nuclear ribonucleoprotein G (HNRNPG) selectively binds m6A-modified RNA in vitro and in vivo. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL11154 22 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74085/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA298926
+Series		Accession: GSE74085	ID: 200074085
+
+30. N6-methyladenosine in Flaviviridae viral RNA genomes regulates infection
+(Submitter supplied) We use MeRIP-seq and PAR-CLIP in liver cell lines to detail the role of m6A in positive strand RNA virus infection. We find that hepatitis C virus, dengue virus, West Nile virus, yellow fever virus, and Zika virus all contain m6A within their genomes, with some conservation between viruses in methylation sites.
+Organism:	Homo sapiens
+Type:		Methylation profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platforms: GPL11154 GPL16791 28 Samples
+FTP download: GEO (BED, CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83438/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA325928
+Series		Accession: GSE83438	ID: 200083438
+
+31. Dynamics of the human and viral m6A RNA methylomes during HIV-1 infection of T cells
+(Submitter supplied) Significance of RNA methylation in the context of HIV-1 infection in human T cells
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL16791 8 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74016/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA298743
+Series		Accession: GSE74016	ID: 200074016
+
+32. Widespread N6-methyladenosine-dependent RNA Structural Switches Regulate RNA-Protein Interactions
+(Submitter supplied) We show that N6-methyladenosine (m6A), the most abundant internal modification in mRNA/lncRNA with still poorly characterized function, alters RNA structure to facilitate the access of RBM for heterogeneous nuclear ribonucleoprotein C (hnRNP C). We term this mechanism m6A-switch. Through combining PAR-CLIP with Me-RIP, we identify 39,060 m6A-switches among hnRNP C binding sites transcriptome-wide. We show that m6A-methyltransferases METTL3 or METTL14 knockdown decreases hnRNP C binding at 16,582 m6A-switches. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Other
+Platform: GPL11154 18 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56010/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA242201
+Series		Accession: GSE56010	ID: 200056010
+
+33. RNA m5C Methylation in breast cancer using MeRIP-Seq
+(Submitter supplied) RNA m5C methylation profile of MCF10A and MDA486 by using MeRIP-Seq protocol
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11154 10 Samples
+FTP download: GEO (BED, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53370/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA231850
+Series		Accession: GSE53370	ID: 200053370
+
+34. Comprehensive Analysis of mRNA Methylation Reveals Enrichment in 3' UTRs and Near Stop Codons
+(Submitter supplied) Here, we use a novel technique for locating regions of N6-adenosine methylation (m6A) throughout the transcriptome and present a profile of m6A sites in the mouse brain. Our use of methylated RNA immunoprecipitation combined with RNA-seq (MeRIP-Seq) identifies thousands of RNAs which contain m6A sites. In addition, we find that regions of m6A formation are particularly enriched near stop codons, which might provide clues into the potential funciton of this highly prevalent RNA modificaiton.
+Organism:	Homo sapiens; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing
+Platforms: GPL11002 GPL13112 GPL11154 11 Samples
+FTP download: GEO (BW, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE29nnn/GSE29714/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA141085
+Series		Accession: GSE29714	ID: 200029714
