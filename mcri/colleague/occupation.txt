@@ -1,6 +1,0 @@
-occupation
-
-4121 - University Professors (medical sciences professor, public health professor, )
-3111 - Specialist Physician (specialist in epidemiology and community medicine)
-
-
