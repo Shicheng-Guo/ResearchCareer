@@ -1,5 +1,5 @@
-*Can you explain your employment gap?
-*Describe your leadership style.
+* Can you explain your employment gap?
+* Describe your leadership style.
 *Describe your most challenging project.
 *Do you have any questions for me?
 *Tell me about a time you created a goal and achieved it.
