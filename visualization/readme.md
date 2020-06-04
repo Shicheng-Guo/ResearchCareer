@@ -1,5 +1,6 @@
 * Dr. Minxian Wang, Polygenic Risk Score, http://live.vhall.com/623433315
 * Interactive Tree Of Life: https://itol.embl.de/
+* Ingenuity pathway: https://targetexplorer.ingenuity.com/index.htm
 * NCBI Conserved domains: https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi
 * Multiple alignment using T-Coffee: http://tcoffee.crg.cat/
 * Boxshade: http://www.ch.embnet.org/software/BOX_form.html
